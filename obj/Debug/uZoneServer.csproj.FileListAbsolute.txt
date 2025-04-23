@@ -1,0 +1,14 @@
+C:\Users\dante\source\repos\uZoneServer\bin\Debug\uZoneServer.exe.config
+C:\Users\dante\source\repos\uZoneServer\bin\Debug\uZoneServer.exe
+C:\Users\dante\source\repos\uZoneServer\bin\Debug\uZoneServer.pdb
+C:\Users\dante\source\repos\uZoneServer\obj\Debug\uZoneServer.csproj.AssemblyReference.cache
+C:\Users\dante\source\repos\uZoneServer\obj\Debug\uZoneServer.csproj.CoreCompileInputs.cache
+C:\Users\dante\source\repos\uZoneServer\obj\Debug\uZoneServer.exe
+C:\Users\dante\source\repos\uZoneServer\obj\Debug\uZoneServer.pdb
+C:\Users\dante\Downloads\uZoneServer\uZoneServer\bin\Debug\uZoneServer.exe.config
+C:\Users\dante\Downloads\uZoneServer\uZoneServer\bin\Debug\uZoneServer.exe
+C:\Users\dante\Downloads\uZoneServer\uZoneServer\bin\Debug\uZoneServer.pdb
+C:\Users\dante\Downloads\uZoneServer\uZoneServer\obj\Debug\uZoneServer.csproj.AssemblyReference.cache
+C:\Users\dante\Downloads\uZoneServer\uZoneServer\obj\Debug\uZoneServer.csproj.CoreCompileInputs.cache
+C:\Users\dante\Downloads\uZoneServer\uZoneServer\obj\Debug\uZoneServer.exe
+C:\Users\dante\Downloads\uZoneServer\uZoneServer\obj\Debug\uZoneServer.pdb
